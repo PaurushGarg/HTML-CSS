@@ -1,0 +1,217 @@
+body{
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.Table-Box {
+    margin:0 0;
+    padding:0 0;
+}
+
+.Menu {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+.Menu-Aisle {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.Menu-MenuBar {
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: right;
+    font-size: 15px;
+    vertical-align: bottom;
+}
+
+.Table-Row-Header {
+    display: table;
+    width: 100%;
+    margin: 0px 0px;
+    background: transparent;
+    padding: 12px 0px;
+    color: #555;
+    font-size: 20px;
+    background-color: antiquewhite;
+    line-height: 20px;
+}
+
+.Table-Cell-Header-First {
+    display:table-cell;
+    width:10%;
+    text-align: center;
+    padding: 0px 0px;
+    border-right: 1px solid #d6d4d4;
+    font-family: cursive;   
+}
+
+.Table-Cell-Header-Second {
+    display: table-cell;
+    text-align: left;
+    text-indent: 6px;
+    padding: 0px 0px; 
+    font-family: cursive;
+    vertical-align: middle;
+}
+
+.Table-Row-TopBar {
+    display: table;
+    width: 100%;
+    margin: 0px 0px;
+    padding: 12px 0px;
+    background-color: darkslategrey;
+}
+
+.Table-Cell-TopBar-First {
+    width:25%;
+    display:table-cell;
+    text-align: left;
+    text-indent: 24px;
+    padding: 0px 0px;
+}
+
+.Table-Cell-TopBar {
+    display:table-cell;
+    border-collapse: collapse;
+    text-align: right;
+    padding: 0px 12px;
+    border-right: 1px solid #d6d4d4;
+    border-right-style:ridge;  
+}
+
+.Table-Cell-TopBar-Last {
+    display:table-cell;
+    border-collapse: collapse;
+    text-align: right;
+    padding: 0px 24px;
+}
+
+.Search {
+    background: #2f3640;
+    padding: 12px 0px;
+    vertical-align: middle;
+    width: 100%;
+    text-align: right;
+}
+
+.Search-box {
+    width: 50%;
+    margin-right: 0px;
+}
+
+.Search button {
+    padding: 0px 0px;
+    border: 1px solid #fafafa;
+    color: #2f3640;
+    margin-right: 24px;
+}
+
+.Search-button {
+    text-decoration: none;
+    color: #2f3640;
+    font-size: 15px;
+}
+
+.Table-Row-Aisle {
+    display: table;
+    width:100%;
+    margin: 0px 0px;
+    padding: 12px 0px;
+    background-color: #2f3640;
+}
+
+
+.Table-Cell-MenuBar-Aisle {
+    width:80%;
+    display:table-cell;
+    padding: 0px 0px;
+    text-indent: 136px;
+    font-size: 25px;
+    text-align: left;
+    vertical-align: top;
+    line-height: 20px;
+}
+
+.Table-Cell-MenuBar {
+    display:table-cell;
+    width:10%;
+    padding: 0px 24px;
+    color: whitesmoke;
+    text-align: right;
+    font-size: 15px;
+    vertical-align: bottom;
+}
+
+.Image-Chicken {
+    display: block;
+    width: 100%;
+    padding: 0 0;
+    margin: 0 0;
+    height= "400px";
+}
+
+.Table-Row-Footer {
+    display: table;
+    width: 100%;
+    margin: 0px 0px;
+    background: transparent;
+    padding: 0px 0px;
+    color: whitesmoke;
+    font-size: 15px;
+    background-color: #2f3640;
+    line-height: 20px;
+}
+
+.Table-Cell-FooterBold{
+    display:table-cell;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 0px 0px;
+    text-indent: 24px;
+    font-weight: bold;
+    width:15%;
+}
+
+.Table-Cell-Footer{
+    display:table-cell;
+    width:15%;
+    text-align: left;
+    text-indent: 24px;
+    padding: 0px 0px;
+}
+
+.Table-Cell-CopyRight{
+    display:table-cell;
+    width:15%;
+    text-align: right;
+    padding: 0px 24px;
+}
+
+.Navigation {
+    width:20%;
+    height:auto;
+    margin:0 0;
+    background-color: aqua;
+    padding: 0px 0px;
+    float:left;
+}
+
+.Product-Category {
+    width: 80%;
+    height: auto;
+    margin:0 0;
+    padding: 0px 0px;
+    background-color: yellow;
+    float:right;
+}
+
+#FootMenuBar {
+    clear:both;
+}
+
